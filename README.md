@@ -4,6 +4,16 @@
   <h3>Frontend Developer</h3>
 </div>
 
+<div align="center">
+  <a href="https://vk.com/id119285699">
+    <img src="img/VKLogo.svg" alt="logo" height=40px>
+  </a>
+</div>
+<div align="center">
+  <a href="https://t.me/BlaZzzee">
+    <img src="img/telegram-color.svg" alt="logo" height=40px>
+  </a>
+</div>
 <!--
 **Nikita-BlaZe/Nikita-Blaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
