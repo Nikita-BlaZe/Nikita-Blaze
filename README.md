@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <a href="https://vk.com/id119285699">
+  <a href="https://vk.com/id119285699" target="_blank">
     <img src="img/VKLogo.svg" alt="logo" height=40px>
   </a>
 </div>
 <div align="center">
-  <a href="https://t.me/BlaZzzee">
+  <a href="https://t.me/BlaZzzee" target="_blank">
     <img src="img/telegram-color.svg" alt="logo" height=40px>
   </a>
 </div>
